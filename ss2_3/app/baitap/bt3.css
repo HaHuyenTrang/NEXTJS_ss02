@@ -1,0 +1,30 @@
+.form{
+    border: 5px solid gray;
+    width: 500px;
+    padding: 20px;
+}
+input{
+    border: 2px solid rgb(228, 226, 226);
+    border-radius: 6px;
+}
+.h1{
+    font-size: 20px;
+}
+.btn{
+    border: 1px solid black;
+    width: 420px;
+    border-radius: 6px;
+    background-color: rgb(0, 119, 255);
+}
+.address{
+    width: 400px;
+    height: 140px;
+    
+}
+.ip{
+    width: 400px;
+}
+.sks{
+    display: flex;
+    gap:50px;
+}
